@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+       printf("\n\n      Este es el segundo programa :D\n\n");
+       printf("\n\n  ¿Qué le parece?   \n\n");
+       printf("\n  Se lo comparto a usd. \n"),
+       return 0;
+
+}
